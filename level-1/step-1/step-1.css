@@ -7,7 +7,7 @@
 /* I would suggest using float to get this container in its desired location. */
 
 .content-left {
-    width: 34%;
+    width: 20%;
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
     height: 800px;
     background: #565555;
@@ -18,11 +18,11 @@
 /* I would suggest using float to get this container in its desired location. */
 
 .content-mid {
-    width: 66%;
+    width: 80%;
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
     height: 800px;
     background: #B0B0B0;
-    float: right;
+    float: left;
 }
 
 /* I would suggest using position to get this container to the bottom of the screen  */
